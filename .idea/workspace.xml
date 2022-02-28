@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84bb332c-3c8c-467a-823c-d7a470c1f072" name="Default Changelist" comment="Create first web app" />
+    <list default="true" id="84bb332c-3c8c-467a-823c-d7a470c1f072" name="Default Changelist" comment="j ghkbgvjnbmh">
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,6 +103,7 @@
       <workItem from="1645662984809" duration="2573000" />
       <workItem from="1646083239638" duration="1278000" />
       <workItem from="1646084602581" duration="73000" />
+      <workItem from="1646084689861" duration="666000" />
     </task>
     <task id="LOCAL-00001" summary="Create first web app">
       <created>1645665548057</created>
@@ -123,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646084631256</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="j ghkbgvjnbmh">
+      <created>1646084905154</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1646084905154</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,9 +154,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Displayed Hello World" />
     <MESSAGE value="Create first web app" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create first web app" />
+    <MESSAGE value="j ghkbgvjnbmh" />
+    <option name="LAST_COMMIT_MESSAGE" value="j ghkbgvjnbmh" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Smile$app.coverage" NAME="app Coverage Results" MODIFIED="1645665224598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Smile$Smile.coverage" NAME="Smile Coverage Results" MODIFIED="1646085355691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
