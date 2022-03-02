@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84bb332c-3c8c-467a-823c-d7a470c1f072" name="Default Changelist" comment="CHANGED HELLO WORLD">
-      <change afterPath="$PROJECT_DIR$/Static/smile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Templates/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Templates/menu.html" afterDir="false" />
+    <list default="true" id="84bb332c-3c8c-467a-823c-d7a470c1f072" name="Default Changelist" comment="Added, Contact, home, menu html and smile css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static/smile.css" beforeDir="false" afterPath="$PROJECT_DIR$/Static/smile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/menu.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +111,8 @@
       <workItem from="1645662984809" duration="2573000" />
       <workItem from="1646083239638" duration="1278000" />
       <workItem from="1646084602581" duration="73000" />
-      <workItem from="1646084689861" duration="1246000" />
+      <workItem from="1646084689861" duration="1492000" />
+      <workItem from="1646184410950" duration="197000" />
     </task>
     <task id="LOCAL-00001" summary="Create first web app">
       <created>1645665548057</created>
@@ -148,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646085455138</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added, Contact, home, menu html and smile css">
+      <created>1646086163710</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1646086163710</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +179,8 @@
     <MESSAGE value="Create first web app" />
     <MESSAGE value="j ghkbgvjnbmh" />
     <MESSAGE value="CHANGED HELLO WORLD" />
-    <option name="LAST_COMMIT_MESSAGE" value="CHANGED HELLO WORLD" />
+    <MESSAGE value="Added, Contact, home, menu html and smile css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added, Contact, home, menu html and smile css" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Smile$app.coverage" NAME="app Coverage Results" MODIFIED="1645665224598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
