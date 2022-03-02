@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84bb332c-3c8c-467a-823c-d7a470c1f072" name="Default Changelist" comment="Typed in the code for smile.css, contact.html, home.html and menu.html">
+    <list default="true" id="84bb332c-3c8c-467a-823c-d7a470c1f072" name="Default Changelist" comment="Typed in the code for app.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
@@ -109,7 +109,7 @@
       <workItem from="1646083239638" duration="1278000" />
       <workItem from="1646084602581" duration="73000" />
       <workItem from="1646084689861" duration="1492000" />
-      <workItem from="1646184410950" duration="389000" />
+      <workItem from="1646184410950" duration="1420000" />
     </task>
     <task id="LOCAL-00001" summary="Create first web app">
       <created>1645665548057</created>
@@ -160,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646184682663</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Typed in the code for app.py">
+      <created>1646184823149</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1646184823149</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,10 +192,11 @@
     <MESSAGE value="CHANGED HELLO WORLD" />
     <MESSAGE value="Added, Contact, home, menu html and smile css" />
     <MESSAGE value="Typed in the code for smile.css, contact.html, home.html and menu.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Typed in the code for smile.css, contact.html, home.html and menu.html" />
+    <MESSAGE value="Typed in the code for app.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Typed in the code for app.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Smile$app.coverage" NAME="app Coverage Results" MODIFIED="1645665224598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Smile$Smile.coverage" NAME="Smile Coverage Results" MODIFIED="1646085385033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Smile$Smile.coverage" NAME="Smile Coverage Results" MODIFIED="1646185521724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
