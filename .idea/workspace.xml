@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84bb332c-3c8c-467a-823c-d7a470c1f072" name="Default Changelist" comment="Michael made it so i can access my site">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+    <list default="true" id="84bb332c-3c8c-467a-823c-d7a470c1f072" name="Default Changelist" comment="Made menu list">
+      <change afterPath="$PROJECT_DIR$/Static/images/aeropress.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static/images/chemex.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static/images/coldbrew.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static/images/espresso.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static/images/flatwhite.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static/images/hotchoc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static/images/latte.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static/images/longblack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static/images/v60.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/menu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +55,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\18202\PycharmProjects\Smile\Static\images" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.Smile">
     <configuration name="Smile" type="PythonConfigurationType" factoryName="Python">
@@ -114,7 +129,8 @@
       <workItem from="1646084689861" duration="1492000" />
       <workItem from="1646184410950" duration="2205000" />
       <workItem from="1646267646063" duration="64000" />
-      <workItem from="1646267863740" duration="2520000" />
+      <workItem from="1646267863740" duration="2573000" />
+      <workItem from="1647292740886" duration="2837000" />
     </task>
     <task id="LOCAL-00001" summary="Create first web app">
       <created>1645665548057</created>
@@ -179,7 +195,21 @@
       <option name="project" value="LOCAL" />
       <updated>1646185920708</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Made menu list">
+      <created>1646270420158</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1646270420158</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Made menu list">
+      <created>1646270440202</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1646270440202</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,10 +236,11 @@
     <MESSAGE value="Typed in the code for smile.css, contact.html, home.html and menu.html" />
     <MESSAGE value="Typed in the code for app.py" />
     <MESSAGE value="Michael made it so i can access my site" />
-    <option name="LAST_COMMIT_MESSAGE" value="Michael made it so i can access my site" />
+    <MESSAGE value="Made menu list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made menu list" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Smile$app.coverage" NAME="app Coverage Results" MODIFIED="1645665224598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Smile$Smile.coverage" NAME="Smile Coverage Results" MODIFIED="1646269972214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Smile$Smile.coverage" NAME="Smile Coverage Results" MODIFIED="1647295578689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
