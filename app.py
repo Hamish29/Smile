@@ -6,7 +6,7 @@ DB_NAME = "smile.db"
 
 app = Flask(__name__)
 
-
+# Hamish is being a silly sausage
 def create_connection(db_file):
     """create a connection to the sqlite db"""
     try:
