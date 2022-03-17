@@ -15,7 +15,6 @@ def create_connection(db_file):
         return connection
     except Error as e:
         print(e)
-        print("There has been an error")
 
     return None
 

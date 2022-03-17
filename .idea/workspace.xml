@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84bb332c-3c8c-467a-823c-d7a470c1f072" name="Default Changelist" comment="Made menu list">
-      <change afterPath="$PROJECT_DIR$/Static/images/aeropress.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Static/images/chemex.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Static/images/coldbrew.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Static/images/espresso.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Static/images/flatwhite.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Static/images/hotchoc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Static/images/latte.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Static/images/longblack.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Static/images/v60.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+    <list default="true" id="84bb332c-3c8c-467a-823c-d7a470c1f072" name="Default Changelist" comment="put images, changed app.py and menu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static/smile.css" beforeDir="false" afterPath="$PROJECT_DIR$/Static/smile.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Templates/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/menu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
@@ -130,7 +121,8 @@
       <workItem from="1646184410950" duration="2205000" />
       <workItem from="1646267646063" duration="64000" />
       <workItem from="1646267863740" duration="2573000" />
-      <workItem from="1647292740886" duration="2837000" />
+      <workItem from="1647292740886" duration="3219000" />
+      <workItem from="1647477059884" duration="93000" />
     </task>
     <task id="LOCAL-00001" summary="Create first web app">
       <created>1645665548057</created>
@@ -209,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646270440202</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="put images, changed app.py and menu">
+      <created>1647295877908</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1647295877908</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,10 +236,11 @@
     <MESSAGE value="Typed in the code for app.py" />
     <MESSAGE value="Michael made it so i can access my site" />
     <MESSAGE value="Made menu list" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made menu list" />
+    <MESSAGE value="put images, changed app.py and menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="put images, changed app.py and menu" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Smile$app.coverage" NAME="app Coverage Results" MODIFIED="1645665224598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Smile$Smile.coverage" NAME="Smile Coverage Results" MODIFIED="1647295578689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Smile$Smile.coverage" NAME="Smile Coverage Results" MODIFIED="1647295825308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
